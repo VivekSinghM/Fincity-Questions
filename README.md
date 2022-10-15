@@ -1,2 +1,2 @@
-"# Java-Questions" 
+"# JS-Questions" 
 "# Fincity-Questions" 
